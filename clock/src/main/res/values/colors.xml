@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="border_color">#FFF</color>
+    <color name="background_color">#424242</color>
+    <color name="main_pointer_color">#FF03DAC5</color>
+    <color name="second_pointer_color">#EAEAEA</color>
+
+</resources>

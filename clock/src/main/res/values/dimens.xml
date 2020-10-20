@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_width">4dp</dimen>
+    <dimen name="main_pointer_width">4dp</dimen>
+    <dimen name="seconds_pointer_width">3dp</dimen>
+    <dimen name="main_pointer_overflow_width">20dp</dimen>
+    <dimen name="seconds_pointer_overflow_width">40dp</dimen>
+    <dimen name="decoration_tick_long">20dp</dimen>
+    <dimen name="decoration_tick_short">10dp</dimen>
+</resources>
